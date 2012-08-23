@@ -205,10 +205,11 @@ cursor:pointer;
 	background: linear-gradient(#F2F2F2, #ffffff);
 }
 
-
+/*
 #linklist li.publicLinkHightLight:hover,#linklist li:hover{
 	background: #E9FFCE;
 }
+*/
 #linklist li.private { background: url('../images/private.png') no-repeat 10px center; padding-left:60px; }
 .private  .linktitle a {color:#969696;}
 .linktitle { font-size:14pt; font-weight:bold; }
